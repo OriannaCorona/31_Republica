@@ -1,9 +1,50 @@
 /*section*/
-p{
-	font-size: 50%;
+.text-info{
+	font-size: 70%;
+	margin-left: 0%;
 }
-.puntos{
-	background-image: url("../assets/image/img_grid_principal2.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+.bg-puntos{
+	background: #d8d8d8;
+	padding: 3%;
+	width: 80%;
+}
+.fondoblanc{
+	background-color: white;
+	padding: 10% 0% 2% 0%;
+	margin: -9% 0%;
+	width: 100%;
+}
+.bocho{
+	width: 90%;
+}
+.text-justify{
+	margin: 5% 5%;
+}
+.btn-danger{
+	border-radius: 5px 5px;
+	padding: 0% 10%;
+	margin-top: 15%;
+}
+.block-border{
+	border: solid 1px #d8d8d8;
+	margin: 10% 0%;
+	padding: 5% 2% 0% 2%;
+	width: 80%;
+}
+.wapa{
+	width: 35%;
+	border: solid 2px #df0174;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+.text-rosa{
+	color: #df0174;
+}
+.logo-wapa{
+	margin-bottom: 5%;
+}
+.img-wapa{
+	width: 100%;
+	height: 100%;
+	margin-bottom: 10%;
 }
