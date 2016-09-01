@@ -2,3 +2,8 @@
 p{
 	font-size: 50%;
 }
+.puntos{
+	background-image: url("../assets/image/img_grid_principal2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
